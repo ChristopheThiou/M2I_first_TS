@@ -1,0 +1,23 @@
+{
+  "name": "first-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"parcel public/*.html"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2i-grenoble-dam/first-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m2i-grenoble-dam/first-typescript/issues"
+  },
+  "homepage": "https://github.com/m2i-grenoble-dam/first-typescript#readme",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
